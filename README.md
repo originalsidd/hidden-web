@@ -56,9 +56,7 @@ TEAM ORANGE</strong></a>
 
 AI-powered Assistive technology to help people with disabilities
 
-Chirag Madaan - 20BCI0059
-
-Siddharth Pal - 20BDS0409
+by Chirag Madaan and Siddharth Pal
 
 Our project provides people with disabilities that affect their fine motor skills or make it difficult to use a traditional keyboard or mouse, with an alternative input method that is much easier and more comfortable to use.
 
@@ -125,21 +123,6 @@ Users will get to perform several voice commands. Example of few of them are giv
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Contact
-
-Project Link: [https://github.com/originalsidd/hidden-web](https://github.com/originalsidd/hidden-web)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [product-screenshot]: public/pic.png
 [next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
