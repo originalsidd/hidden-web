@@ -44,7 +44,6 @@ TEAM ORANGE</strong></a>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
   </ol>
 </details>
@@ -53,9 +52,19 @@ TEAM ORANGE</strong></a>
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]
 
-<!-- pic.png -->
+AI-powered Assistive technology to help people with disabilities
+
+Chirag Madaan - 20BCI0059
+
+Siddharth Pal - 20BDS0409
+
+Our project provides people with disabilities that affect their fine motor skills or make it difficult to use a traditional keyboard or mouse, with an alternative input method that is much easier and more comfortable to use.
+
+Using our project, physically challenged people will be able to control their laptops, computers and mobile devices using their voice.
+
+We provide this functionality by making our microcontroller act as an HID to mimic keyboard and mouse.
 
 ### Built With
 
