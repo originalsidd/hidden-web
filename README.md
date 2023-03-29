@@ -52,7 +52,7 @@ TEAM ORANGE</strong></a>
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]
+![Product Name Screen Shot][product-screenshot]
 
 AI-powered Assistive technology to help people with disabilities
 
